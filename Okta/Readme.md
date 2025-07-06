@@ -34,7 +34,7 @@
 
 ---
 
-### ✅ Realistic Mapping for a Final-Year Candidate
+### ✅ Realistic Mapping for a Candidate
 
 | Round             | What You’ll Likely Face                                                  |
 | ----------------- | ------------------------------------------------------------------------ |
