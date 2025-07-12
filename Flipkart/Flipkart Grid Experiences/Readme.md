@@ -1,6 +1,6 @@
 # ⚡ Flipkart GRiD 7.0 – Tips & Tricks for SDE Track
 
-🔗 **Apply here**: [Flipkart GRiD 7.0 Registration Portal](https://unstop.com/hackathons/flipkart-grid-70-software-development-track-flipkart-106240)
+🔗 **Apply here**: [Flipkart GRiD 7.0 Registration Portal](https://mycareernet.in/mycareernet/contests/Flipkart-Flipkart-GRiD-7-0--234)
 
 ---
 
