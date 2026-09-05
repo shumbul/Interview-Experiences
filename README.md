@@ -23,7 +23,7 @@ This guide is tailored for tech placements, especially for SDE roles in companie
 |-------------|-------|
 | ✅ One-page Resume | Focused, clean layout. Highlight impact, numbers, projects, and roles. |
 | 💬 LinkedIn | Create a strong About section, highlight internships, and use featured projects. |
-| 🛠️ Tools | [Overleaf](https://www.overleaf.com/), [NovoResume](https://novoresume.com/), [Reactive Resume](https://rxresu.me/) |
+| 🛠️ Tools | [Overleaf](https://www.overleaf.com/), [NovoResume](https://novoresume.com/), [Reactive Resume](https://rxresu.me/), [ResumeAI](https://withresumeai.com/) |
 | 🔗 Templates | [Shumbul's Resume](https://youtu.be/MKJEElGyDf0?si=qTUYqrjQl5FcY5NT) |
 
 ---
